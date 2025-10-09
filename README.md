@@ -8,21 +8,21 @@ Estudiante de Ingeniería en Informática y desarrollador en formación. Me inte
 - TP-Modelacion-numerica — Notebooks y análisis numérico (Jupyter). https://github.com/daniel1002-jpg/TP-Modelacion-numerica
 
 ## Mi stack (actual / en aprendizaje)
-- Uso con confianza: Node.js, Express, Python intermedio, SQL (PostgreSQL), Git.
+- Uso con confianza: Node.js, Express, Python (intermedio), SQL (PostgreSQL), Git.
 - Familiar / en práctica: React (básico), Docker, testing con Jest / Supertest.
 - Aprendiendo: TypeScript, CI/CD (GitHub Actions), despliegue en Render/Heroku.
 
 ## ¿Qué puedo ofrecer?
 - Capacidad para construir APIs REST y scripts de backend.
-- Interés por buenas prácticas: pruebas básicas, documentación y despliegue.
+- Enfoque en buenas prácticas: pruebas básicas, documentación y despliegue.
 - Actitud proactiva para aprender nuevas tecnologías y colaborar en equipo.
 
 ## Cómo contactarme
-- Portfolio / LinkedIn: linkedin.com/in/daniel-mamani-b03b5a204
+- LinkedIn: https://linkedin.com/in/daniel-mamani-b03b5a204
 - Email: danymamani1002@gmail.com
 - GitHub: https://github.com/daniel1002-jpg
 
-> Nota: Actualmente soy estudiante de Ingeniería en Informática y desarrollo proyectos personales y académicos. Puedo compartir demos o instrucciones para ejecutar cualquiera de los repositorios bajo pedido.
+> Nota: Actualmente soy estudiante de Ingeniería en Informática y desarrollo proyectos personales y académicos. Puedo compartir demos o instrucciones para ejecutar cualquiera de los repositorios bajo petición.
 
 ---
 Actualizado: 2025-10-09
